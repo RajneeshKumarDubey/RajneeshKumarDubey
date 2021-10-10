@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Data Science
 - 🌱 I’m currently learning Data science 
 - 💞
-- 📫 How to reach me at ranesmec@gmail.com
+- 📫 How to reach me at rajnesmec@gmail.com
 
 <!---
 RajneeshKumarDubey/RajneeshKumarDubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
